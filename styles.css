@@ -1,0 +1,12 @@
+@charset "utf-8";
+*{
+	font-family:Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif 
+}
+h1{
+	color: dimgray;
+	background-color: white;
+align-self: center;
+}
+img{
+	background-color: green;
+}
